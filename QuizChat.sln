@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerForm", "ServerForm\ServerForm.csproj", "{088D9E22-95ED-4F5E-B024-C49224E1878E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientForm", "ClientForm\ClientForm.csproj", "{28F9F4BE-A3BA-43CF-9756-C25CF734ED62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088D9E22-95ED-4F5E-B024-C49224E1878E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088D9E22-95ED-4F5E-B024-C49224E1878E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088D9E22-95ED-4F5E-B024-C49224E1878E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088D9E22-95ED-4F5E-B024-C49224E1878E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F9F4BE-A3BA-43CF-9756-C25CF734ED62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F9F4BE-A3BA-43CF-9756-C25CF734ED62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F9F4BE-A3BA-43CF-9756-C25CF734ED62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F9F4BE-A3BA-43CF-9756-C25CF734ED62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EA58E9-FA3B-4302-A849-CF5A4BA1772C}
+	EndGlobalSection
+EndGlobal
